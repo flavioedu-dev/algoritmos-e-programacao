@@ -1,2 +1,2 @@
-# Algoritmos-e-Programa-o
-Repoitório para realizar atividades e exercícios em python.
+# Algoritmos e Programação
+Repositório para realizar atividades e exercícios em python.
