@@ -65,3 +65,6 @@ aluno soma pontos, de acordo com a tabela de pontuação a seguir:
 <td>30</td>
 </tr>
 </table>
+
+Para cada questão errada, o aluno não soma pontos. O programa deverá informar o nome do aluno e
+a quantidade de pontos obtida na prova.
