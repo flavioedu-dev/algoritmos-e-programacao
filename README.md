@@ -9,7 +9,7 @@ menor ou igual a y (z <= y). O programa deverá imprimir todos os valores inteir
 no intervalo [x, y] divisíveis por z. Após impressão, o programa deverá informar também a soma
 dos valores que são pares impressos.
 
-</b>Exemplos:<b>
+<b>Exemplos:</b>
 
 Entradas 1: x = 5, y = 19 e z = 3;
 
