@@ -13,4 +13,4 @@ dos valores que são pares impressos.
 
 <b>Entradas 1:</b> x = 5, y = 19 e z = 3;
 
-<b>Saída 1:</b> 6 9 12 15 18, soma pares= 36 
+<b>Saída 1:</b> 6 9 12 15 18, soma pares = 36 
