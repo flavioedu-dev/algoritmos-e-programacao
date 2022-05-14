@@ -30,11 +30,11 @@ aluno soma pontos, de acordo com a tabela de pontuação a seguir:
 </tr>
 <tr>
 <td>2</td>
-<td>15</td>
+
 </tr>
 <tr>
 <td>3</td>
-<td>15</td>
+
 </tr>
 <tr>
 <td>4</td>
