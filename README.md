@@ -11,6 +11,6 @@ dos valores que são pares impressos.
 
 <b>Exemplos:</b>
 
-Entradas 1: x = 5, y = 19 e z = 3;
+<b>Entradas 1:</b> x = 5, y = 19 e z = 3;
 
-Saída 1: 6 9 12 15 18, soma pares= 36 
+<b>Saída 1:</b> 6 9 12 15 18, soma pares= 36 
