@@ -24,10 +24,13 @@ aluno soma pontos, de acordo com a tabela de pontuação a seguir:
 <table>
 <th>N° da questão</th>
 <th>Pontuação</th>
+<tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
+</tr>
+
 <td>5</td>
 <td>6</td>
 <td>7</td>
