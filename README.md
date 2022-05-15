@@ -66,7 +66,7 @@ Faça um programa que leia n valores inteiros positivos do usuário. O programa 
 
 <b>Exemplos:</b>
 
-<b>Entradas 1:</b> n = 5, 6 9 12 17 18
+<b>Entradas 1:</b> n = 5, 6 9 12 17 18<br>
 <b>Saída 1:</b> Está em ordem crescente!
 
 <b>Entradas 2:</b> n = 11, 1 3 5 8 9 13 11 12 20 34 99
