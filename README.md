@@ -7,8 +7,7 @@ Faça um programa em Python em que o usuário deverá informar três valores int
 
 <b>Exemplos:</b>
 
-<b>Entradas 1:</b> x = 5, y = 19 e z = 3;
-
+<b>Entradas 1:</b> x = 5, y = 19 e z = 3;<br>
 <b>Saída 1:</b> 6 9 12 15 18, soma pares = 36
 
 ### Questão 2
@@ -69,6 +68,5 @@ Faça um programa que leia n valores inteiros positivos do usuário. O programa 
 <b>Entradas 1:</b> n = 5, 6 9 12 17 18<br>
 <b>Saída 1:</b> Está em ordem crescente!
 
-<b>Entradas 2:</b> n = 11, 1 3 5 8 9 13 11 12 20 34 99
-
+<b>Entradas 2:</b> n = 11, 1 3 5 8 9 13 11 12 20 34 99<br>
 <b>Saída 2:</b> Não está em ordem crescente!
