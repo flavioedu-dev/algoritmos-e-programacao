@@ -40,7 +40,7 @@ if(len(a)==3): # Verificando se foram adicinados as três entradas solicitadas
                     if i%2==0:
                         soma += i
 
-        print("soma dos pares = ", soma)
+        print("Soma dos pares = ", soma)
         
 # Tratamento de erros
     else:
