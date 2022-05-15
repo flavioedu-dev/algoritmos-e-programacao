@@ -61,7 +61,7 @@ Faça um programa em Python que leia um gabarito de uma prova com 10 questões, 
 Para cada questão errada, o aluno não soma pontos. O programa deverá informar o nome do aluno e a quantidade de pontos obtida na prova.
 
 ### Questão 3
-Faça um programa que leia n valores inteiros positivos do usuário. O programa deverá informar se a sequência de valores digitada está em ordem crescente ou não.
+Faça um programa que leia <b>n</b> valores inteiros positivos do usuário. O programa deverá informar se a sequência de valores digitada está em ordem crescente ou não.
 
 <b>Exemplos:</b>
 
