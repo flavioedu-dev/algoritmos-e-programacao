@@ -24,7 +24,7 @@ if(len(a)==3): # Verificando se foram adicinados as três entradas solicitadas
     
     if x<y and z<=y: # Verificando se as condições para as entradas foram atendidas
 
-        for i in range(x, y): # Iniciando o intervalo apartir do valor da variáveis x e y
+        for i in range(x, y): # Iniciando o intervalo apartir do valor das variáveis x e y
 
             if i%z==0: # Verificando se o número atual é divisível pelo valor de z
 
@@ -32,13 +32,13 @@ if(len(a)==3): # Verificando se foram adicinados as três entradas solicitadas
                 if i==(y-1): 
                     print(i, end=", ")
 
-                    # Verificando se o número é par para realizar sua adição a variável soma
+                    # Verificando se o número é par para realizar sua adição a variável "soma"
                     if i%2==0: 
                         soma += i
                 else:
                     print(i, end=" ")
 
-                    # Verificando se o número é par para realizar sua adição a variável soma
+                    # Verificando se o número é par para realizar sua adição a variável "soma"
                     if i%2==0:
                         soma += i
 
