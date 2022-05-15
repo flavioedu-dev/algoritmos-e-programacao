@@ -65,6 +65,7 @@ Para cada questão errada, o aluno não soma pontos. O programa deverá informar
 Faça um programa que leia n valores inteiros positivos do usuário. O programa deverá informar se a sequência de valores digitada está em ordem crescente ou não.
 
 Exemplos:
+
 Entradas 1: n = 5, 6 9 12 17 18
 
 Saída 1: Está em ordem crescente!
