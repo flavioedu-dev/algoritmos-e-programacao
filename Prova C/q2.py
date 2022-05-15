@@ -20,7 +20,7 @@ if len(x) == 10 and len(z)==10:
         # Tratando o erro para caso a entrada inserida não seja permitida
         try:
             e1 = entradas.index(x[i])
-            e2 = entradas.index(y[i])
+            e2 = entradas.index(z[i])
             cont += 1 # Incrementando o contador
             continue
         except:
