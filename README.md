@@ -1,8 +1,20 @@
 # Algoritmos e Programação
 Repositório para realizar atividades e exercícios em python.
 
+### 1) String Maluca! Num programa em Python, crie uma função que receba uma string e transforma alguns dos caracteres em maiúsculos e outros em minúsculos. Defina de forma aleatória para escolher os índices dos caracteres que serão alterados. 
 
-### Questão 1
+Exemplo:
+<br>
+Entrada 1: Linguagem de Programação
+Saída 1: LingUagEM dE proGRAmaÇãO
+<br>
+Entrada 2: Linguagem de Programação
+Saída 2: LiNGuAgeM de pRogRamAçÃO
+
+
+
+
+<!-- ### Questão 1
 Faça um programa em Python em que o usuário deverá informar três valores inteiros positivos, x, y e z. Os valores x e y, sendo x < y, formam um intervalo de valores inteiros. O valor de z deverá ser menor ou igual a y (z <= y). O programa deverá imprimir todos os valores inteiros compreendidos no intervalo [x, y] divisíveis por z. Após impressão, o programa deverá informar também a soma dos valores que são pares impressos.
 
 <b>Exemplos:</b>
@@ -69,4 +81,4 @@ Faça um programa que leia <b>n</b> valores inteiros positivos do usuário. O pr
 <b>Saída 1:</b> Está em ordem crescente!
 
 <b>Entradas 2:</b> n = 11, 1 3 5 8 9 13 11 12 20 34 99<br>
-<b>Saída 2:</b> Não está em ordem crescente!
+<b>Saída 2:</b> Não está em ordem crescente! -->
