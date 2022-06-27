@@ -4,10 +4,10 @@ Repositório para realizar atividades e exercícios em python.
 #### 1) String Maluca! Num programa em Python, crie uma função que receba uma string e transforma alguns dos caracteres em maiúsculos e outros em minúsculos. Defina de forma aleatória para escolher os índices dos caracteres que serão alterados. 
 
 Exemplo:
-<br><br><br>
+<br><br>
 Entrada 1: Linguagem de Programação<br>
 Saída 1: LingUagEM dE proGRAmaÇãO
-<br><br><br>
+<br><br>
 Entrada 2: Linguagem de Programação<br>
 Saída 2: LiNGuAgeM de pRogRamAçÃO
 
