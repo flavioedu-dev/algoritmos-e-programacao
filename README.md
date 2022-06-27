@@ -14,6 +14,15 @@ Repositório para realizar atividades e exercícios em python.
 <b>Saída 2:</b> LiNGuAgeM de pRogRamAçÃO
 
 
+#### 2) Defina as seguintes funções em Python com os seguintes protótipos:
+
+- <int> binarioPraDecimal( <str> ): uma função que recebe um valor string, sendo esta uma cadeia de caracteres com 0 ou 1, representando um valor em binário, e converte para decimal, devolvendo como um valor inteiro;
+
+- <list> escalarMatriz( <list>, <float> ): uma função que recebe uma matriz como lista e um valor real, o qual será o escalar a multiplicar cada elemento dessa matriz. A função devolve a matriz calculada pelo escalar como uma lista.
+<br>
+Crie um ou dois algoritmos em Python que utilize estas funções definidas.
+
+
 
 
 <!-- ### Questão 1
