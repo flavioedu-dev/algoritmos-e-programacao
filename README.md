@@ -49,23 +49,10 @@ Faça um programa em Python que leia a dimensão n (n > 1) que valerá para as m
 
 Exemplos de casos de testes:
 
-<b>Caso 1:</b><br>
-n = 3<br>
-<b>Matriz A:</b><br>
-1 2 3<br>
-4 5 6<br>
-7 8 9<br>
-<b>Matriz B:</b><br>
-9 8 7<br>
-6 5 4<br>
-3 2 1<br>
-<b>Saída:</b><br>
-1848 2202 2556<br>
-750 897 1044<br>
-90 108 126<br>
-
 <table>
+
 <tr>
+
 <td>
 <b>Caso 1:</b><br>
 n = 3<br>
@@ -82,22 +69,35 @@ n = 3<br>
 750 897 1044<br>
 90 108 126<br>
 </td>
+
 <td>
-<b>Caso 1:</b><br>
-n = 3<br>
+<b>Caso 2:</b><br>
+n = 2<br>
 <b>Matriz A:</b><br>
-1 2 3<br>
-4 5 6<br>
-7 8 9<br>
+1 2<br>
+3 4<br>
 <b>Matriz B:</b><br>
-9 8 7<br>
-6 5 4<br>
-3 2 1<br>
+2 3<br>
+2 3<br>
 <b>Saída:</b><br>
-1848 2202 2556<br>
-750 897 1044<br>
-90 108 126<br>
+70 70<br>
+48 48<br>
 </td>
+
+<td>
+<b>Caso 3:</b><br>
+n = 2<br>
+<b>Matriz A:</b><br>
+1 0<br>
+0 1<br>
+<b>Matriz B:</b><br>
+4 4<br>
+4 4<br>
+<b>Saída:</b><br>
+32 32<br>
+16 16<br>
+</td>
+
 </tr>
 
 </table>
