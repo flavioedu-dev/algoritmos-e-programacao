@@ -64,6 +64,8 @@ n = 3<br>
 750 897 1044<br>
 90 108 126<br>
 
+<table>
+<hr>
 <b>Caso 1:</b><br>
 n = 3<br>
 <b>Matriz A:</b><br>
@@ -78,6 +80,24 @@ n = 3<br>
 1848 2202 2556<br>
 750 897 1044<br>
 90 108 126<br>
+</hr>
+<hr>
+<b>Caso 1:</b><br>
+n = 3<br>
+<b>Matriz A:</b><br>
+1 2 3<br>
+4 5 6<br>
+7 8 9<br>
+<b>Matriz B:</b><br>
+9 8 7<br>
+6 5 4<br>
+3 2 1<br>
+<b>Saída:</b><br>
+1848 2202 2556<br>
+750 897 1044<br>
+90 108 126<br>
+</hr>
+</table>
 
 
 <!-- ### Questão 1
