@@ -49,7 +49,7 @@ Faça um programa em Python que leia a dimensão n (n > 1) que valerá para as m
 
 Exemplos de casos de testes:
 
-<table border="1">
+<table>
 
 <tr>
 
