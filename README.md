@@ -34,34 +34,36 @@ Crie um ou dois algoritmos em Python que utilize estas funções definidas.
 
 
 ### Problema 
-Sabendo-se que Anxn e Bnxn são as matrizes quadradas de ordem n lidas por seu programa, considere a seguinte expressão matemática dada por Rnxn:
-Rnxn= Bnxn TS ∗ Anxn T ∗ Bnxn OC
+Sabendo-se que <b>Anxn</b> e <b>Bnxn</b> são as matrizes quadradas de ordem <b>n</b> lidas por seu programa, considere a seguinte expressão matemática dada por <b>Rnxn</b>:
+
+<br><b>Rnxn= Bnxn TS ∗ Anxn T ∗ Bnxn OC</b><br>
 
 onde:
 
-Bnxn TS: matriz triangular superior de Bnxn. Numa matriz triangular superior todos os elementos que
-se encontram abaixo da diagonal principal são zeros;
-Anxn T: matriz transposta da matriz Anxn;
-Bnxn OC: matriz Bnxn com todos seus valores ordenados em ordem crescente.
+<b>Bnxn TS:</b> matriz triangular superior de Bnxn. Numa matriz triangular superior todos os elementos que
+se encontram abaixo da diagonal principal são zeros;<br>
+<b>Anxn T:</b> matriz transposta da matriz Anxn;<br>
+<b>Bnxn OC:</b> matriz Bnxn com todos seus valores ordenados em ordem crescente.<br>
 
-Faça um programa em Python que leia a dimensão n (n > 1) que valerá para as matrizes A e B. Em seguida leia valores inteiros para ambas as matrizes. O seu programa deverá calcular e imprimir a matriz resultante R, cuja expressão matemática já foi apresentada.
+Faça um programa em Python que leia a dimensão n (n > 1) que valerá para as matrizes A e B. Em seguida leia valores inteiros para ambas as matrizes. O seu programa deverá calcular e imprimir a <b>matriz resultante R</b>, cuja expressão matemática já foi apresentada.
 
 Exemplos de casos de testes:
 
-Caso 1: Caso 2: Caso 3:
-n = 3 n = 2 n = 2
-Matriz A: Matriz A: Matriz A:
-1 2 3 1 2 1 0
-4 5 6 3 4 0 1
+Caso 1:
+n = 3
+Matriz A:
+1 2 3
+4 5 6
 7 8 9
-Matriz B: Matriz B: Matriz B:
-9 8 7 2 3 4 4
-6 5 4 2 3 4 4
+Matriz B:
+9 8 7
+6 5 4
 3 2 1
-Saída: Saída: Saída:
-1848 2202 2556 70 70 32 32
-750 897 1044 48 48 16 16
+Saída:
+1848 2202 2556
+750 897 1044
 90 108 126
+
 <!-- ### Questão 1
 Faça um programa em Python em que o usuário deverá informar três valores inteiros positivos, x, y e z. Os valores x e y, sendo x < y, formam um intervalo de valores inteiros. O valor de z deverá ser menor ou igual a y (z <= y). O programa deverá imprimir todos os valores inteiros compreendidos no intervalo [x, y] divisíveis por z. Após impressão, o programa deverá informar também a soma dos valores que são pares impressos.
 
