@@ -65,7 +65,8 @@ n = 3<br>
 90 108 126<br>
 
 <table>
-<hr>
+<tr>
+<td>
 <b>Caso 1:</b><br>
 n = 3<br>
 <b>Matriz A:</b><br>
@@ -80,8 +81,8 @@ n = 3<br>
 1848 2202 2556<br>
 750 897 1044<br>
 90 108 126<br>
-</hr>
-<hr>
+</td>
+<td>
 <b>Caso 1:</b><br>
 n = 3<br>
 <b>Matriz A:</b><br>
@@ -96,7 +97,9 @@ n = 3<br>
 1848 2202 2556<br>
 750 897 1044<br>
 90 108 126<br>
-</hr>
+</td>
+</tr>
+
 </table>
 
 
