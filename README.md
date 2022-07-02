@@ -30,7 +30,7 @@ Crie um ou dois algoritmos em Python que utilize estas funções definidas.
 <b>Minha equipe:</b>
 - Flávio Eduardo de Moura
 - Ruan Lauro Cardoso da Silva Monteiro
-- Marcos Vinícius Santo de Deus Ramos
+- Marcos Vinícius Santos de Deus Ramos
 
 
 ### Problema 
