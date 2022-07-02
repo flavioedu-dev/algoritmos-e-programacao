@@ -36,7 +36,7 @@ Crie um ou dois algoritmos em Python que utilize estas funções definidas.
 ### Problema 
 Sabendo-se que <b>Anxn</b> e <b>Bnxn</b> são as matrizes quadradas de ordem <b>n</b> lidas por seu programa, considere a seguinte expressão matemática dada por <b>Rnxn</b>:
 
-<br><b>Rnxn= Bnxn TS ∗ Anxn T ∗ Bnxn OC</b><br>
+<b>Rnxn= Bnxn TS ∗ Anxn T ∗ Bnxn OC</b><br>
 
 onde:
 
@@ -49,20 +49,20 @@ Faça um programa em Python que leia a dimensão n (n > 1) que valerá para as m
 
 Exemplos de casos de testes:
 
-Caso 1:
-n = 3
-Matriz A:
-1 2 3
-4 5 6
-7 8 9
-Matriz B:
-9 8 7
-6 5 4
-3 2 1
-Saída:
-1848 2202 2556
-750 897 1044
-90 108 126
+Caso 1:<br>
+n = 3<br>
+Matriz A:<br>
+1 2 3<br>
+4 5 6<br>
+7 8 9<br>
+Matriz B:<br>
+9 8 7<br>
+6 5 4<br>
+3 2 1<br>
+Saída:<br>
+1848 2202 2556<br>
+750 897 1044<br>
+90 108 126<br>
 
 <!-- ### Questão 1
 Faça um programa em Python em que o usuário deverá informar três valores inteiros positivos, x, y e z. Os valores x e y, sendo x < y, formam um intervalo de valores inteiros. O valor de z deverá ser menor ou igual a y (z <= y). O programa deverá imprimir todos os valores inteiros compreendidos no intervalo [x, y] divisíveis por z. Após impressão, o programa deverá informar também a soma dos valores que são pares impressos.
